@@ -1,0 +1,6 @@
+merchant_id,merchant_name,category,city,join_date,rating
+M001,TechZone,Electronics,Delhi,2024-12-01,4.5
+M002,FashionHub,Fashion,Mumbai,2024-12-03,4.2
+M003,HomeEase,Home Decor,Bangalore,2024-12-05,4.6
+M004,FitLife,Fitness,Hyderabad,2024-12-08,4.1
+M005,BeautyGlow,Beauty,Pune,2024-12-10,4.4
