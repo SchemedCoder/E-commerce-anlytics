@@ -1,0 +1,7 @@
+product_id,product_name,merchant_id,category,price
+P001,Smartphone,M001,Electronics,25000
+P002,Laptop,M001,Electronics,55000
+P003,T-Shirt,M002,Fashion,1200
+P004,Sofa,M003,Home Decor,30000
+P005,Treadmill,M004,Fitness,45000
+P006,Face Serum,M005,Beauty,1500
