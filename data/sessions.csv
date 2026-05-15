@@ -1,0 +1,11 @@
+session_id,customer_id,session_date,traffic_source,device,product_viewed,add_to_cart,checkout_initiated
+S001,C001,2025-02-01,Google Ads,Mobile,P001,Yes,Yes
+S002,C002,2025-02-01,Instagram,Mobile,P003,Yes,No
+S003,C003,2025-02-02,Organic,Laptop,P004,No,No
+S004,C004,2025-02-02,Facebook Ads,Mobile,P006,Yes,Yes
+S005,C005,2025-02-03,Referral,Laptop,P005,Yes,Yes
+S006,C006,2025-02-03,Google Ads,Tablet,P002,No,No
+S007,C007,2025-02-04,Organic,Mobile,P001,Yes,No
+S008,C008,2025-02-04,Instagram,Mobile,P003,Yes,Yes
+S009,C009,2025-02-05,Referral,Laptop,P004,No,No
+S010,C010,2025-02-05,Facebook Ads,Tablet,P006,Yes,Yes
