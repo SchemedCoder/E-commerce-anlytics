@@ -1,0 +1,6 @@
+transaction_id,session_id,customer_id,merchant_id,product_id,order_date,quantity,revenue,payment_status
+T001,S001,C001,M001,P001,2025-02-01,1,25000,Success
+T002,S004,C004,M005,P006,2025-02-02,2,3000,Success
+T003,S005,C005,M004,P005,2025-02-03,1,45000,Success
+T004,S008,C008,M002,P003,2025-02-04,3,3600,Success
+T005,S010,C010,M005,P006,2025-02-05,1,1500,Success
